@@ -15,3 +15,7 @@
 *DFS*:
 
 <img width="1366" height="600" alt="Image" src="https://github.com/user-attachments/assets/a87e6f89-a134-4805-9ab4-514bcda642e6" />
+
+*Output-Bridge-Crossing*:
+
+<img width="1361" height="602" alt="Image" src="https://github.com/user-attachments/assets/b85c726c-84e8-459d-8231-17399aed49d0" />
